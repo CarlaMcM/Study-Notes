@@ -1,0 +1,17 @@
+<ul> Unordered lists displays bullets
+<li> Ordered lists displays numbers 
+And you are able to nest lists inside list items and use a combination of <ul> and <ol> tags to create a list. 
+When you next a list, the bowser adds indentation to give the list structure. 
+
+The href is an anchor elemenet attribute that points to a location and, navigates the user to that location by changing the URL in the address bar. 
+
+&copy; adds a copyright symbol in HTML.
+
+The HTML <aside> element represents a portion of a document whose content is only indirectly related to the document's main content. Asides are frequently presented as sidebars or call-out boxes.
+
+The HTML <nav> element represents a section of a page whose purpose is to provide navigation links, either within the current document or to other documents. Common examples of navigation sections are menus, tables of contents, and indexes.
+
+The HTML <article> element represents a self-contained composition in a document, page, application, or site, which is intended to be independently distributable or reusable (e.g., in syndication). Examples include: a forum post, a magazine or newspaper article, or a blog entry.
+A given document can have multiple articles in it; for example, on a blog that shows the text of each article one after another as the reader scrolls, each post would be contained in an <article> element, possibly with one or more <section>s within.
+
+
